@@ -1,5 +1,5 @@
 # Iris Flower Species Classification
-![](![](https://resources.cdn.seon.io/uploads/2021/02/Fraud_Detection_Prevention_02_03_cover.png))
+![](https://resources.cdn.seon.io/uploads/2021/02/Fraud_Detection_Prevention_02_03_cover.png)
 ## Author: Md Mahfooz Alam Ansari
 ## Batch: September
 ## Domain: Data Science
